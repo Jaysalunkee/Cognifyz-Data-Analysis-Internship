@@ -1,0 +1,8 @@
+#run
+pip install pandas 
+pip install matplotlib 
+pip install seaborn
+pip install numpy
+
+# To install all libraries, run this command in your terminal
+pip install -r requirements.txt
